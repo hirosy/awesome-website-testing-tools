@@ -71,6 +71,9 @@ Security Headers
 Test SSL, security headers and more
 - https://observatory.mozilla.org/
 
+ZoneBI domain, DNS, SSL, email authentication (SPF, DKIM, DMARC) and Spamhaus blocklist monitoring
+- https://zonebi.com/en/
+
 <sub>[⇧ back to top](#contents)</sub>
 
 ## 🙂 Social Media Tags and Schema Markup
